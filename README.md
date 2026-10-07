@@ -580,6 +580,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[awesome-bookm
 - [**grammarly**](https://www.grammarly.com/) 英语写作检查工具
 - [**quickchart**](https://quickchart.io/) 通过 URL 生成图表的开源服务
 - [**hipdf**](https://www.hipdf.cn/) 一站式在线 PDF 解决方案
+- [**Practical Web Tools**](https://practicalwebtools.com/) 1,400+ 免费浏览器工具：PDF 编辑/转换、图片/音频格式转换、200+ 计算器，全部本地处理，无需上传
 - [**whimsical**](https://whimsical.com) 画路程图
 - [**Lorem Picsum**](https://picsum.photos/) 提供免费的占位图
 - [**sm.ms**](https://sm.ms/) 免费图床
